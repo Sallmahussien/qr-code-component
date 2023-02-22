@@ -1,1 +1,2 @@
-# qr-code-component
+Demo: 
+https://sallmahussien.github.io/qr-code-component/
